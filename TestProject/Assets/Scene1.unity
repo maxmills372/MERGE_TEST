@@ -120,7 +120,7 @@ GameObject:
   - component: {fileID: 88631168}
   - component: {fileID: 88631167}
   m_Layer: 0
-  m_Name: MaxsCube
+  m_Name: Greg's_Cube
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
